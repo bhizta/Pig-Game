@@ -1,1 +1,1 @@
-# Pig Game
+My attempt to add new features from the tutorial, like adding ready button, disabling first roll 1, disapearring buttons.
